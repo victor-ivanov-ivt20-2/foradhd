@@ -1,0 +1,10 @@
+# backend
+
+## go packages
+
+/pkg
+
+## env
+
+/backend/config/local.yml
+/backend/local.env
